@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Yash Learning Companion",
+  "description": "A conversational AI friend that helps you learn, shares facts, and keeps you motivated using Gemini Live API. Also keeps curiosity and gives practical examples to explain. Also helps as a teacher who asks quesstions",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
